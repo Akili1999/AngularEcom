@@ -1,0 +1,25 @@
+{
+  "name": "angularecom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akili1999/AngularEcom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akili1999/AngularEcom/issues"
+  },
+  "homepage": "https://github.com/Akili1999/AngularEcom#readme",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "cli": "^1.0.1",
+    "express": "^4.17.1",
+    "sequelize": "^5.21.1"
+  }
+}
