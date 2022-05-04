@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Akili1999/AngularEcom#readme",
   "dependencies": {
-    "angular": "^1.7.8",
+    "angular": "^1.8.3",
     "cli": "^1.0.1",
     "express": "^4.17.1",
     "sequelize": "^5.21.1"
